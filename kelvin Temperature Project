@@ -1,0 +1,13 @@
+const kelvin =465;
+//The value saved to kelvin constantly
+const celsius = kelvin-273;
+//saved the output in the name called celsius
+let fahrenheit = celsius *(9/5)+32
+//calculate the farenheit using the equation
+fahrenheit = Math.floor(fahrenheit);
+//using Math.floor, convert to fahrenheit to down nearest whole number.
+console.log(`The Temperature is ${fahrenheit} degree fahrenheit`)
+
+let newton = celsius*(33/100)
+newton = Math.floor(newton);
+console.log(`The Temperature is ${newton} degree newton.`);

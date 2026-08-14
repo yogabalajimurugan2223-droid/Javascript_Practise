@@ -1,0 +1,1 @@
+document.write("<table border=1><th>Name</th> <th>Age</th> <tr>Yoga</tr> <tr>20</tr></table>")asdswasdw
